@@ -1,7 +1,8 @@
-<<<<<<< HEAD
 # MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
+This project was generated with Angular 13, Bootstrap 5, Fontawesome5 and Angular Material
+<img width="773" alt="Capture-psg" src="https://user-images.githubusercontent.com/40579537/188353083-19c78635-684f-41a0-aea3-8da91e82128f.PNG">
+
 
 Make sure you have git installed on your PC. See https://git-scm.com/downloads for help.
 Make sure you have node installed on your PC. See https://nodejs.org/en/download/ for help.
