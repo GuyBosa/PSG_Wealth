@@ -7,12 +7,12 @@ This project was generated with Angular 13, Bootstrap 5, Fontawesome5 and Angula
 
 
 ## Development server
-Make sure you have git installed on your PC. See https://git-scm.com/downloads for help.
-Make sure you have node installed on your PC. See https://nodejs.org/en/download/ for help.
-Make sure you have Angular CLI installed on your PC. See https://angular.io/cli
-CD into the PSG_Wealth subdirectory
-Run "ng serve --open" and await port-> localhost:4200
-The app will automatically reload if you change any of the source files.
+#Make sure you have git installed on your PC. See https://git-scm.com/downloads for help.
+#Make sure you have node installed on your PC. See https://nodejs.org/en/download/ for help.
+#Make sure you have Angular CLI installed on your PC. See https://angular.io/cli
+#CD into the PSG_Wealth subdirectory
+#Run "ng serve --open" and await port-> localhost:4200
+#The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
