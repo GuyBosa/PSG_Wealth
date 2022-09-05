@@ -2,6 +2,8 @@
 
 This project was generated with Angular 13, Bootstrap 5, Fontawesome5 and Angular Material
 <img width="773" alt="Capture-psg" src="https://user-images.githubusercontent.com/40579537/188353083-19c78635-684f-41a0-aea3-8da91e82128f.PNG">
+<img width="773" alt="Capturepsg2" src="https://user-images.githubusercontent.com/40579537/188356291-80f6b35e-f1b0-4e95-bed9-23a6dd2ff373.PNG">
+
 
 
 Make sure you have git installed on your PC. See https://git-scm.com/downloads for help.
