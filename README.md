@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
@@ -32,3 +33,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# PSG_Wealth
+PSG-Wealth dashboard using Angular 13, material design, fontawesome 5, bootstrap
+>>>>>>> a6d0bea23c7aa14921c5fe9afa9d750abc3d1804
