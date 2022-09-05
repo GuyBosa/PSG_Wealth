@@ -1,0 +1,23 @@
+.logo-width{
+    width: 220px;
+    margin: 0 0 0 20px;
+}
+
+.toolbar{
+    background: #fff;
+    height: 80px;
+    display: flex;
+    padding: 0 0 0 0;
+    justify-content: space-between;
+}
+
+.login-button-padding{
+    padding: 0 110px 0 0;
+}
+
+.login{
+    width: 100px;
+    display: flex;
+    background: #335584;
+    color: #fff;
+}

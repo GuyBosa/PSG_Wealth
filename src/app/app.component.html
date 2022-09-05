@@ -1,0 +1,15 @@
+<mat-toolbar class="app-header toolbar">
+  <div>
+    <a routerLink="home">
+      <img class="logo-width" src="assets/images.png">
+    </a>
+  </div>
+  <span class="nav-tool-items login-button-padding">
+    <!-- <a mat-button routerLink="signin" routerLinkActive="active">Signin</a> -->
+    <a mat-button mat-raised-button routerLink="register" routerLinkActive="active" class="login">
+      <i class="fa fa-sign-in" aria-hidden="true"></i>
+      Login</a>
+  </span>
+</mat-toolbar>
+
+<router-outlet></router-outlet>
